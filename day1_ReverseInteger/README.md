@@ -10,5 +10,5 @@ source: https://leetcode.com/problems/reverse-integer/
 \<cmath>
 \<climits> 
 
-**Time**: O(log10(x)) - length of the integer given 
-**Space**: O(1) - only need 3 ints to store result + intermediaries
+**Time**: O(log10(x)) - length of the integer given  
+**Space**: O(1) - only need 3 ints to store result + intermediaries  
