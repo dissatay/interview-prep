@@ -9,3 +9,6 @@ source: https://leetcode.com/problems/reverse-integer/
 \<stdlib.h>
 \<cmath>
 \<climits> 
+
+**Time**: O(log10(x)) - length of the integer given 
+**Space**: O(1) - only need 3 ints to store result + intermediaries
