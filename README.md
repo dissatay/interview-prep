@@ -1,2 +1,3 @@
 # interview-prep
-Coding questions walkthrough and review of concepts
+
+meetings everyday @ 9:30 till fed up with bullshit
